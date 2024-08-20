@@ -51,8 +51,9 @@ section {
 }
 
 section img {
-    width: 300px;
+    width: 400px;
     margin-top: 50px;
+    border-radius: 10px;
 }
 
 h1 {
