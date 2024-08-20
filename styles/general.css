@@ -50,6 +50,10 @@ section {
     margin-bottom: 50px;
 }
 
+section img {
+    width: 300px;
+}
+
 h1 {
     font-size: 75px;
 
